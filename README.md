@@ -1,6 +1,24 @@
 # Site
+
+Описание проекта:
+
+Кулинарный форум с регистрацией пользователей и реализацией API
+
+# Инстументы разработки:
+
+Стек:
+
++ Django 3.1, Django REST Framework 3.12, and Python 3.8
+
++ JWT Web Token auth
+
++ Signup
+
++ sqlite3
+  
+
 # Разработка
-#1) Клонировать репозиторий
+1) Клонировать репозиторий
 ```
 git clone https://github.com/VR48hyukh/config.git
 ```
@@ -13,11 +31,11 @@ python -m venv venv
 
 3) Активировать виртуальное окружение
    
-#Linux
+ Linux
 ```
 source venv/bin/activate
 ```
-#Windows 
+ Windows 
 ```
 ./venv/Scripts/activate
 ```
