@@ -8,7 +8,7 @@
 
 Стек:
 
-+ Django 3.1, Django REST Framework 3.12, and Python 3.8
++ Django 3.1, Django REST Framework 3.12, and Python 3.12
 
 + JWT Web Token auth
 
